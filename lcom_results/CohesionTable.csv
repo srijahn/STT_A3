@@ -1,0 +1,18 @@
+Project Name,Package Name,Type Name,LCOM1,LCOM2,LCOM3,LCOM4,LCOM5,YALCOM
+java,com.sevenheaven.uilibrary.drawables,GroupedAvatarDrawable,39.0,23.0,2.0,2.0,0.8142857142857143,0.1818181818181818
+java,com.sevenheaven.uilibrary.drawables,RoundEdgeDrawable,18.0,8.0,4.0,3.0,0.8857142857142858,0.375
+java,com.sevenheaven.uilibrary.drawables,MaskDrawable,30.0,5.0,3.0,2.0,0.74,0.1818181818181818
+java,com.sevenheaven.uilibrary.drawables.progressive.providers,PathProgressProvider,41.0,27.0,5.0,3.0,0.8722222222222221,0.2727272727272727
+java,com.sevenheaven.uilibrary.drawables.progressive.providers,PathDesc,2.0,1.0,3.0,3.0,0.875,0.6666666666666666
+java,com.sevenheaven.uilibrary.drawables.progressive.providers,AppStoreStyleProgressProvider,3.0,0.0,1.0,1.0,0.7045454545454546,0.0
+java,com.sevenheaven.uilibrary.drawables.progressive,LoadingDrawable,78.0,78.0,14.0,13.0,1.027777777777778,0.8461538461538461
+java,com.sevenheaven.uilibrary.drawables.progressive,ProgressiveDrawable,258.0,216.0,11.0,11.0,0.9192708333333334,0.44
+java,com.sevenheaven.uilibrary.drawables.progressive,DrawContentProvider,9.0,8.0,4.0,4.0,0.75,0.8
+java,com.sevenheaven.uilibrary.shapes,ArcShape,20.0,12.0,3.0,1.0,0.75,0.0
+java,com.sevenheaven.uilibrary.shapes,PolygonShape,41.0,27.0,4.0,3.0,0.8285714285714285,0.2727272727272727
+java,com.sevenheaven.uilibrary.utils,GeomUtil,10.0,0.0,5.0,3.0,0.0,0.6
+java,com.sevenheaven.uilibrary.utils,PathMeasurement,10.0,0.0,2.0,1.0,0.6666666666666666,0.0
+java,com.sevenheaven.uilibrary.views,AnimatedImageView,32.0,19.0,4.0,3.0,0.7777777777777778,0.3
+java,com.sevenheaven.uilibrary.views,PageIndicator,99.0,78.0,4.0,3.0,0.9083333333333332,0.1875
+java,com.sevenheaven.uilibrary.views,GroupedAvatarImageView,15.0,15.0,6.0,6.0,1.0,1.0
+java,com.sevenheaven.uilibrary.views,FitWidthImageView,83.0,61.0,7.0,4.0,0.8142857142857143,0.2666666666666666

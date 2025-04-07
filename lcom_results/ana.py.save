@@ -1,0 +1,24 @@
+import pandas as pd
+
+# Load the CSV file
+csv_file = "TypeMetrics.csv" 
+df = pd.read_csv(csv_file, delimiter="\t")  # Assuming tab-separated file
+
+# Define threshold for "High LCOM" (Adjust as needed)
+LCOM1_THRESHOLD = 50
+LCOM2_THRESHOLD = 40
+
+# Filter classes with high LCOM values
+high_lcom_classes = df[(df["LCOM1"] > LCOM1_THRESHOLD) | (df["LCOM2"] > LCOM2_THRESHOLD)]
+
+# Create a cohesion table
+cohesion_table = high_lcom_classes[["Package Name", "Type Name", "LCOM1", "LCOM2", "LCOM3", "LCOM4", "LCOM5", "YALCOM"]]
+
+# Save the table to a new CSV file
+output_file = "high_lcom_classes.csv"
+cohesion_table.to_csv(output_file, index=False)
+
+# Print the results
+print("\nHigh LCOM Classes Identified:")
+print(cohesion_table)
+print(f"\nCohesion table saved to {output_file}")

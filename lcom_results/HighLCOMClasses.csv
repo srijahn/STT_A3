@@ -1,0 +1,5 @@
+Project Name,Package Name,Type Name,LCOM1,LCOM2,LCOM3,LCOM4,LCOM5,YALCOM
+java,com.sevenheaven.uilibrary.drawables.progressive,LoadingDrawable,78.0,78.0,14.0,13.0,1.027777777777778,0.8461538461538461
+java,com.sevenheaven.uilibrary.drawables.progressive,ProgressiveDrawable,258.0,216.0,11.0,11.0,0.9192708333333334,0.44
+java,com.sevenheaven.uilibrary.views,PageIndicator,99.0,78.0,4.0,3.0,0.9083333333333332,0.1875
+java,com.sevenheaven.uilibrary.views,FitWidthImageView,83.0,61.0,7.0,4.0,0.8142857142857143,0.2666666666666666
